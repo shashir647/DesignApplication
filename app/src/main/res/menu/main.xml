@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_people"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_account_circle_white_24dp"
+        android:title="people"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_alarm"
+        android:orderInCategory="50"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_alarm_white_24dp"
+        android:title="alarm"/>
+</menu>

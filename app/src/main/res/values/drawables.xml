@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="Booking" type="drawable">@drawable/booking</item>
+    <item name="Activities" type="drawable">@drawable/activity</item>
+    <item name="Calendar" type="drawable">@drawable/calander1</item>
+    <item name="Finance" type="drawable">@drawable/finance</item>
+    <item name="Users" type="drawable">@drawable/user</item>
+    <item name="Account" type="drawable">@drawable/account</item>
+    <item name="Reviews" type="drawable">@drawable/review</item>
+    <item name="Reports" type="drawable">@drawable/report</item>
+    <item name="Competitions" type="drawable">@drawable/competition</item>
+
+</resources>

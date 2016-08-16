@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"/>
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/booking"
+            android:title="Bookings" />
+        <item
+            android:id="@+id/nav_activity"
+            android:icon="@drawable/activity"
+            android:title="Activities" />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/calander1"
+            android:title="Calendar" />
+        <item
+            android:id="@+id/nav_finance"
+            android:icon="@drawable/finance"
+            android:title="Finance" />
+        <item
+            android:id="@+id/nav_user"
+            android:icon="@drawable/user"
+            android:title="Users" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/account"
+            android:title="Account" />
+        <item
+            android:id="@+id/nav_review"
+            android:icon="@drawable/review"
+            android:title="Reviews" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/report"
+            android:title="Reports" />
+    <item
+        android:id="@+id/nav_competition"
+        android:icon="@drawable/competition"
+        android:title="Competitions" />
+
+</menu>
